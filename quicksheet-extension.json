@@ -1,0 +1,8 @@
+{
+  "name": "tls",
+  "version": "1.0.0",
+  "prefix": "tls",
+  "description": "TLS certificate expiry + issuer checker for QuickSheet",
+  "entry": "dotnet run --project TlsExtension.csproj",
+  "minProtocolVersion": 1
+}
